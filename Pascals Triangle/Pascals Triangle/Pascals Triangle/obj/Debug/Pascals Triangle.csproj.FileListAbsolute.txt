@@ -1,0 +1,6 @@
+D:\LeetCode Problems\Pascals Triangle\Pascals Triangle\Pascals Triangle\bin\Debug\Pascals Triangle.exe.config
+D:\LeetCode Problems\Pascals Triangle\Pascals Triangle\Pascals Triangle\obj\Debug\Pascals Triangle.csprojResolveAssemblyReference.cache
+D:\LeetCode Problems\Pascals Triangle\Pascals Triangle\Pascals Triangle\bin\Debug\Pascals Triangle.exe
+D:\LeetCode Problems\Pascals Triangle\Pascals Triangle\Pascals Triangle\bin\Debug\Pascals Triangle.pdb
+D:\LeetCode Problems\Pascals Triangle\Pascals Triangle\Pascals Triangle\obj\Debug\Pascals Triangle.exe
+D:\LeetCode Problems\Pascals Triangle\Pascals Triangle\Pascals Triangle\obj\Debug\Pascals Triangle.pdb
